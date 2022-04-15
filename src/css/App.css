@@ -9,6 +9,9 @@
   font-size: 30px;
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+.link{
+    text-decoration: none;
+}
 .caption{
    color:rgb(221, 215, 215);
    text-align: center;

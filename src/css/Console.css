@@ -1,0 +1,23 @@
+.flex{
+    display: flex;
+    color: antiquewhite;
+    resize: vertical;
+    overflow-y: scroll;
+    margin:2px ;
+}
+.sub-div{
+    padding: 1px;
+    border: 2px solid rgb(51, 67, 86);
+    height: 100%;
+    width: 100%;
+    resize: horizontal;
+    overflow: auto;
+}
+.nav{
+    background: rgb(51, 67, 86);
+}
+.cancle-button{
+    /* background: rgb(51, 67, 86) ; */
+    margin-left: 15px;
+    margin-top: -3px;
+}
